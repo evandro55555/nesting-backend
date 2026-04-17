@@ -6,7 +6,13 @@
     "start": "node server.js"
   },
   "dependencies": {
+<<<<<<< HEAD
     "express": "^4.18.2",
     "cors": "^2.8.5"
   }
 }
+=======
+    "express": "^4.18.2"
+  }
+}
+>>>>>>> 6e59583a6c28eb8108d365902a900e501f4fc7ed
